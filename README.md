@@ -1,1 +1,1 @@
-# Ascii-character-Converter
+# Ascii-Art-Converter
